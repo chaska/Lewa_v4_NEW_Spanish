@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="app_name">Provedor de Temas</string>
+    <string name="permlab_access_DrmThemeResources">leer los recursos de medios protegidos por DRM</string>
+    <string name="permdesc_access_DrmThemeResources">Permite que una aplicación acceda a la lectura de los recursos de paquetes temáticos protegidos por DRM</string>
+    <string name="permlab_set_theme">Establezca un Tema aplicado a nivel mundial</string>
+    <string name="permdesc_set_theme">"Permite que una aplicación cambie el Tema Visual del teléfono."</string>
+</resources>

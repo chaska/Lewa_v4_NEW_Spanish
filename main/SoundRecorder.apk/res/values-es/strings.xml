@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="app_name">Grabadora de sonido</string>
+    <string name="record_your_message">Grabe su mensaje</string>
+    <string name="message_recorded">Mensaje grabado</string>
+    <string name="review_message">Escuchar mensaje</string>
+    <string name="recording">Grabando</string>
+    <string name="recording_stopped">Grabación detenida</string>
+    <string name="storage_is_full">No queda espacio de almacenamiento</string>
+    <string name="max_length_reached">Longitud máxima alcanzada</string>
+    <string name="insert_sd_card">Por favor, inserte una tarjeta SD</string>
+    <string name="min_available">quedan %d mins</string>
+    <string name="sec_available">quedan %ds</string>
+    <string name="accept">Aceptar</string>
+    <string name="discard">Descartar</string>
+    <string name="button_ok">Aceptar</string>
+    <string name="timer_format" formatted="false">%02d:%02d</string>
+    <string name="audio_db_title_format">dd-MM-yyyy HH:mm:ss</string>
+    <string name="audio_db_artist_name">Sus grabaciones</string>
+    <string name="audio_db_album_name">Grabaciones de audio</string>
+    <string name="audio_db_playlist_name">Grabaciones favoritas</string>
+    <string name="error_sdcard_access">No es posible acceder a la tarjeta SD</string>
+    <string name="error_app_internal">Error interno</string>
+    <string name="error_mediadb_new_record">No es posible guardar las grabaciones</string>
+    <string name="error_app_recorder_occupied">La grabadora está siendo usada por otra aplicación.</string>
+    <string name="unknown_artist_name">Artista desconocido</string>
+    <string name="error_app_failed_title">Error en la grabación</string>
+    <string name="tell_save_record_success">Guardado correctamente</string>
+    <string name="save_record">Guardar</string>
+    <string name="spaceIsLow_content">Su tarjeta SD está llena. Pare la grabación o elimine archivos de la tarjeta SD.</string>
+    <string name="cancel">Cancelar</string>
+    <string name="rename_record_file">Renombrar archivo de grabación</string>
+    <string name="file_already_exists">El archivo ya existe</string>
+    <string name="select_recording_format">Seleccione formato de grabación</string>
+    <string name="recording_format_high">Alta</string>
+    <string name="recording_format_mid">Media</string>
+    <string name="recording_format_low">Baja</string>
+    <string name="three_mins_avail_total">3 mins total disponibles</string>
+    <string name="recorder_can_not_be_used">No se puede usar la grabadora de sonido.</string>
+    <string name="alert_delete_multiple">Estos archivos serán eliminados</string>
+    <string name="alert_delete_single">Este archivo será eliminado</string>
+    <string name="ok">Aceptar</string>
+    <string name="delete">Eliminar</string>
+    <string name="deleting">Eliminando</string>
+    <string name="no_recording_file">(Sín archivos de grabación)</string>
+    <string name="recording_file_list">Lista de archivos de grabación</string>
+    <string name="recording_paused">Grabación pausada</string>
+</resources>

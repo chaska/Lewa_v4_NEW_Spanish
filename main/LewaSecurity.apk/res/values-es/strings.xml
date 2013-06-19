@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Centro de seguridad</string>
+	<string name="app_virus">Antivirus</string>
+	<string name="app_clearance">Liberar Espacio</string>
+	<string name="app_speed">Aumentar velocidad</string>
+	<string name="app_autostart">Autoarranque</string>
+	<string name="app_antitheft">Antirobo</string>
+	<string name="app_permmanager">Gestor de permisos</string>
+	<string name="app_intercept">Bloqueo</string>
+	<string name="app_netmgr">Gestión de datos</string>
+	<string name="app_push">Gestor push</string>
+	<string name="first_use1">No ha sido escaneado</string>
+	<string name="first_use2">Por favor, escanear en estos momentos</string>
+    <string name="after_use1">"Último escaneo
+%1$s"</string>
+    <string name="after_use2">"Librería de virus
+%1$s"</string>
+    <string name="after_no_version">No se ha actualizado</string>
+</resources>

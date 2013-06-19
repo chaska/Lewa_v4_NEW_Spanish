@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Servicio de Conexión Celular</string>
+	<string name="button_ok">Aceptar</string>
+	<string name="button_cancel">Cancelar</string>
+	<string name="confirm_radio_title">SIM desactivada</string>
+	<string name="confirm_radio_msg">%1$s está desactivada. ¿Desea activar esta tarjeta SIM?</string>
+	<string name="confirm_radio_msg_single">El modo vuelo esta activado, ¿desea desactivarlo?</string>
+	<string name="confirm_pin_title">SIM bloqueada</string>
+	<string name="confirm_pin_msg">La tarjeta SIM seleccionada está bloqueada. Desbloqueela primero.</string>
+	<string name="confrim_simmelock_title">SIM ME bloqueada</string>
+	<string name="confirm_simmelock_msg">La raruna SIM seleccionada está bloqueada. Desbloqueela primero.</string>
+	<string name="confirm_fdn_title">FDN habilitado</string>
+	<string name="confirm_fdn_msg">Los números de marcación fija están habilitados.</string>
+	<string name="confirm_roaming_title">Aviso de Roaming</string>
+	<string name="confirm_roaming_msg">La Sim que esta usando está en modo viajero. No se encuentra Sim Local. ¿Desea continuar?</string>
+	<string name="confirm_roaming_withPrefer_msg">La Sim que está usando esta en modo viajero. ¿Desea continuar en modo local?</string>
+	<string name="confirm_roaming_lbutton">Continuar</string>
+	<string name="confirm_roaming_rbutton">Cancelar</string>
+	<string name="confirm_roamingWithPrefer_lbutton">Sim Local</string>
+	<string name="confirm_roamingWithPrefer_rbutton">Sim Viajero</string>
+	<string name="confirm_radio_lbutton">Encendido</string>
+	<string name="confirm_unlock_lbutton">Desbloquear</string>
+	<string name="confirm_disable_lbutton">Desactivado</string>
+	<string name="confirm_unlock_fail">Operación cancelada</string>
+	<string name="confirm_turnon_radio_fail">Operación cancelada</string>
+	<string name="confirm_permit_roaming_fail">Ha cancelado la acción en la Sim en modo viajero</string>
+	<string name="confirm_sim_locked_message">La tarjeta SIM ha sido bloqueada permanentemente</string>
+	<string name="confirm_slot_locked_message">El slot ha sido permanentemente bloqueado</string>
+</resources>

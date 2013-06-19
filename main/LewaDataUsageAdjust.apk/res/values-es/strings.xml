@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Sincronización de datos.</string>
+<string name="app_summary">Parte de Data Meterũ LeWaTek Limited.</string>
+<string name="app_title">Petición de datos 3G.</string>
+<string name="request_failed">Petición de datos 3G fallida.</string>
+<string name="request_sms">Petición SMS envío configuración.</string>
+<string name="send_sms">Enviando petición vía SMS para usar datos 3G.</string>
+<string name="analyze_sms">Analizando datos 3G.</string>
+<string name="correct_failed">Sincronización de datos 3G fallida. Por favor, intente de nuevo.</string>
+<string name="correct_success">Sincronización de datos 3G completada.</string>
+<string name="alert_slot_error">Slot inválido</string>
+<string name="alert_network_error">Error de red</string>
+<string name="phone_closed">Móvil deshabilitado. Por favor, habilítelo y vuelva a intentarlo.</string>
+<string name="label_province">Provincia</string>
+<string name="label_city">Ciudad</string>
+<string name="label_carrier">Operador</string>
+<string name="label_brand">Marca</string>
+<string name="label_info">Por favor, revise la información de su operador.</string>
+<string name="label_data_left">Izquierda</string>
+<string name="label_data_used">Usado</string>
+<string name="label_partner">Creado por Tencent Mobile Manager</string>
+</resources>

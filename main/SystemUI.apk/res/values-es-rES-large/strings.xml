@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="status_bar_clear_all_button">Borrar todo</string>
+    <string name="status_bar_network_name_separator">" – "</string>
+    <string name="notifications_off_title">Apagar Notificaciones</string>
+    <string name="notifications_off_text">Pulse aquí para activar de nuevo las notificaciones.</string>
+</resources>

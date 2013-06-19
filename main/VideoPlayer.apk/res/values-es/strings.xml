@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="video_app_name">Reproductor de video</string>
+<string name="scanning">Escaneando tarjeta SD...</string>
+<string name="sdcard_missing_message">Su teléfono no tiene una tarjeta SD insertada.</string>
+<string name="video_list_empty">No hay vídeos en la tarjeta SD.</string>
+<string name="detail_title">Título : %1$s</string>
+<string name="detail_date_taken">Tomado : %1$s</string>
+<string name="detail_path">Parcheado : %1$s</string>
+<string name="detail_filesize">Tamaño archivo : %1$s</string>
+<string name="detail_duration">Duración : %1$s</string>
+<string name="media_detail">Detalles</string>
+<string name="delete">Suprimir</string>
+<string name="delete_tip">Suprimir %1$s?</string>
+<string name="delete_progress">Suprimiendo %1$s ...</string>
+</resources>

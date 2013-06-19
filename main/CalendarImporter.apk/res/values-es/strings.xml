@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="import_to">Importar a</string>
+	<string name="import_button">Importar</string>
+	<string name="cancel">Cancelar</string>
+	<string name="no_access_toast">Cuenta no encontrada. Añade una primero.</string>
+	<string name="null_name">SinNombre</string>
+	<string name="import_message">Quieres importar al calendario?</string>
+    <string name="name_lable">"Nombre: "</string>
+    <string name="calendar_lable">"Calendario: "</string>
+    <string name="date_lable">"Fecha: "</string>
+    <string name="import_title">Importar Evento del Calendario</string>
+    <string name="importing">Importando ...</string>
+    <string name="import_complete">Inportación completa</string>
+    <string name="open">Abrir</string>
+    <string name="done">Hecho</string>
+    <string name="progresszero">0%</string>
+    <string name="no_syncable_calendars">Sin calendarios</string>
+    <string name="no_calendars_found">Usted no tiene calendarios.</string>
+    <string name="vcs_import_failed">"No se puede importar vCalendar."</string>
+</resources>
+

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string-array name="home_tab_text">
+        <item>热门推荐</item>
+        <item>装机必备</item>
+        <item>排行榜</item>
+    </string-array>
+    <string-array name="category_tab_text">
+        <item>应 用</item>
+        <item>游 戏</item>
+    </string-array>
+    <string-array name="treasure_tab_text">
+        <item>专题集锦</item>
+        <item>用户推荐</item>
+    </string-array>
+    <string-array name="manage_tab_text">
+        <item>数据转移</item>
+        <item>下载列表</item>
+        <item>已装列表</item>
+        <item>更新列表</item>
+        <item>SD卡扫描</item>
+    </string-array>
+    <string-array name="ranking_page_nav_tab_text">
+        <item>最新排行</item>
+        <item>最热排行</item>
+    </string-array>
+    <string-array name="move_data_tab_text">
+        <item>移至SD卡</item>
+        <item>移至内存</item>
+    </string-array>
+    <string-array name="more_dowmload_count">
+        <item>1个</item>
+        <item>2个</item>
+        <item>3个</item>
+        <item>4个</item>
+        <item>5个</item>
+    </string-array>
+    <string-array name="more_dowmload_count_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="feedback_type">
+        <item>功能意见</item>
+        <item>您的新需求</item>
+        <item>界面意见</item>
+        <item>操作意见</item>
+        <item>其它</item>
+    </string-array>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="cu_3gnet_name">Red 3G</string>
+    <string name="cu_3gwap_name">WAP 3G</string>
+    <string name="app_label">Phone/Messaging Storage</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="StartDialogTitle">Iniciando tcpdump</string>
+<string name="StartDialogContent">Espere...</string>
+<string name="StopDialogTitle">Parando tcpdump</string>
+<string name="StopDialogContent">Espere...</string>
+<string name="ClearDialogTitle">Borrando log</string>
+<string name="ClearDialogContent">Espere...</string>
+<string name="log_path_default">/sdcard/mtklog/network</string>
+<string name="phone_path">Teléfono</string>
+<string name="sd_path">SD Card</string>
+<string name="log_size_hint">Tamaño total de log (MBytes)</string>
+<string name="show_available_space">Espacio disponible</string>
+<string name="write_command">Orden de consola</string>
+<string name="run_shell_command">Ejecutar orden</string>
+<string name="Start_tcpdump">Iniciando tcpdump...</string>
+<string name="Stop_tcpdump">Parando tcpdump...</string>
+<string name="Clear_log">Borrando log...</string>
+<string name="cancle_command">Parar orden</string>
+<string name="Cancle_command_text">Cancelar orden de consola</string>
+<string name="error_invalid_file_path">Ruta de archivo inválida</string>
+<string name="error_invalid_log_size">Tamaño de log inválido</string>
+<string name="dialog_error">Error</string>
+<string name="start">Iniciar</string>
+<string name="stop">Parar</string>
+<string name="activitynetworklog_service_label">Estado del servicio de log de red</string>
+<string name="activitynetworklog_service_start">Servicio de log de red iniciado</string>
+<string name="activitynetworklog_service_stopped">Servicio de log de red detenido</string>
+<string name="clear_log">Borrar log</string>
+<string name="autorecord">Ejecutar automáticamente al inicio de Android</string>
+<string name="version">Versión: 2.0</string>
+<string name="input_log_size">Puede determinar el tamaño de log aquí (MBytes)</string>
+<string name="log_size_default">Tamaño de log por defecto</string>
+</resources>

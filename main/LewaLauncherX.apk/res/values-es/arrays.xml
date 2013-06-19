@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string-array name="desktop_transition_effect_entries">
+        <item>Estandard</item>
+        <item>Estandard(No OverShoot)</item>
+        <item>Tablet</item>
+        <item>Acercar</item>
+        <item>Alejar</item>
+        <item>Rotatar Arriba</item>
+        <item>Rotatar Abajo</item>
+        <item>Cubo Entrando</item>
+        <item>Cubo Saliendot</item>
+        <item>Stack</item>
+    </string-array>
+    <string-array name="desktop_transition_effect_values">
+        <item>Estandard</item>
+        <item>NoOverShoot</item>
+        <item>Tablet</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>Stack</item>
+    </string-array>
+    <string-array name="screen_layout">
+        <item>4 * 4</item>
+        <item>4 * 5</item>
+    </string-array>
+    <string-array name="screen_layout_value">
+        <item>4|4</item>
+        <item>4|5</item>
+    </string-array>
+    <array name="extra_wallpapers" />
+    <array name="sort_class" />
+    <string-array name="wallpapers">
+        <item>wallpaper</item>
+        <item>wallpaper_countryside</item>
+        <item>wallpaper_grass</item>
+        <item>wallpaper_illusion</item>
+        <item>wallpaper_lake</item>
+    </string-array>
+</resources>

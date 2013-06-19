@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<timezones>
+    <timezone id="GMT+04:30" weatherID="2254271">Abadán (Irán)</timezone>
+    <timezone id="GMT+04:00" weatherID="1940330">Abu Dhabi</timezone>
+    <timezone id="GMT+03:00" weatherID="1958930">Adén (Yemen)</timezone>
+    <timezone id="GMT+02:00" weatherID="1968902">Amán (Jordania)</timezone>
+    <timezone id="GMT+02:00" weatherID="2343732">Ankara (Turquia)</timezone>
+    <timezone id="GMT+03:00" weatherID="1979455">Bagdad (Irak)</timezone>
+    <timezone id="GMT+04:00" weatherID="1951874">Baku (Azerbaiyán)</timezone>
+    <timezone id="GMT+08:00" weatherID="1020725">Bandar Seri Begawan (Brunéi)</timezone>
+    <timezone id="GMT+07:00" weatherID="1225448">Bangkok (Tailandia)</timezone>
+    <timezone id="GMT+02:00" weatherID="1960307">Beirut (Líbano)</timezone>
+    <timezone id="GMT+06:30" weatherID="2189783">Colombo (Sri Lanka)</timezone>
+    <timezone id="GMT+06:00" weatherID="1915035">Daca (Bangladés)</timezone>
+    <timezone id="GMT+07:00" weatherID="1047378">Yakarta (Indonesia)</timezone>
+    <timezone id="GMT+07:00" weatherID="1236594">Hanói (Vietnam)</timezone>
+    <timezone id="GMT+05:00" weatherID="2211027">Islamabad (Pakistán)</timezone>
+    <timezone id="GMT+02:00" weatherID="1968222">Jerusalen (Israel)</timezone>
+    <timezone id="GMT+05:45" weatherID="2269179">Katmandú (Nepal)</timezone>
+    <timezone id="GMT+08:00" weatherID="1154781">Kuala Lumpur (Malasia)</timezone>
+    <timezone id="GMT+03:00" weatherID="23424870">Kuwait</timezone>
+    <timezone id="GMT+08:00" weatherID="1199477">Manila (Filipinas)</timezone>
+    <timezone id="GMT+03:00" weatherID="1939897">Meca (Arabia Saudita)</timezone>
+    <timezone id="GMT+06:30" weatherID="2295019">Nueva Delhi (India)</timezone>
+    <timezone id="GMT+07:00" weatherID="1020985">Nom Pen (Camboya)</timezone>
+    <timezone id="GMT+09:00" weatherID="1079132">Pyongyang (Corea del Norte)</timezone>
+    <timezone id="GMT+07:30" weatherID="1015662">Rangún  (Birmania)</timezone>
+    <timezone id="GMT+09:00" weatherID="1132599">Seul (Corea del Sur)</timezone>
+    <timezone id="GMT+08:00" weatherID="23424948">Singapur</timezone>
+    <timezone id="GMT+04:30" weatherID="2251945">Teherán (Irán)</timezone>
+    <timezone id="GMT+09:00" weatherID="1118370">Tokio (Japón)</timezone>
+    <timezone id="GMT+08:00" weatherID="2266535">Ulán Bator (Mongolia)</timezone>
+    <timezone id="GMT+08:00" weatherID="1887901">Macao (China)</timezone>
+    <timezone id="GMT+08:00" weatherID="2151330">Pekín (China)</timezone>
+    <timezone id="GMT+08:00" weatherID="2151849">Shanghai (China)</timezone>
+    <timezone id="GMT+08:00" weatherID="2306179">Taipei (Taiwán)</timezone>
+    <timezone id="GMT+08:00" weatherID="2165352">Hong Kong</timezone>
+    <timezone id="GMT+01:00" weatherID="727232">Amsterdam (Holanda)</timezone>
+    <timezone id="GMT+01:00" weatherID="966591">Amberes (Bélgica)</timezone>
+    <timezone id="GMT+02:00" weatherID="946738">Atenas (Grecia)</timezone>
+    <timezone id="GMT+01:00" weatherID="532697">Belgrado (Serbia)</timezone>
+    <timezone id="GMT+01:00" weatherID="638242">Berlín (Alemania)</timezone>
+    <timezone id="GMT+01:00" weatherID="968019">Bruselas (Bélgica)</timezone>
+    <timezone id="GMT+02:00" weatherID="868274">Bucarest (Rumanía)</timezone>
+    <timezone id="GMT+01:00" weatherID="804365">Budapest (Hungría)</timezone>
+    <timezone id="GMT+01:00" weatherID="554890">Copenhague (Dinamarca)</timezone>
+    <timezone id="GMT+00:00" weatherID="560743">Dublín (Irlanda)</timezone>
+    <timezone id="GMT+01:00" weatherID="782538">Ginebra (Suiza)</timezone>
+    <timezone id="GMT+01:00" weatherID="716085">Génova (Italia)</timezone>
+    <timezone id="GMT+00:00" weatherID="21125">Glasgow (Reino Unido)</timezone>
+    <timezone id="GMT+02:00" weatherID="565346">Helsinki (Finlandia)</timezone>
+    <timezone id="GMT+02:00" weatherID="2344116">Estambul (Turquía)</timezone>
+    <timezone id="GMT+02:00" weatherID="924938">Kiev (Ucrania)</timezone>
+    <timezone id="GMT+00:00" weatherID="742676">Lisboa (Portugal)</timezone>
+    <timezone id="GMT+00:00" weatherID="44418">Londres (Reino Unido)</timezone>
+    <timezone id="GMT+01:00" weatherID="766273">Madrid (España)</timezone>
+    <timezone id="GMT+03:00" weatherID="2122265">Moscú (Rusia)</timezone>
+    <timezone id="GMT+01:00" weatherID="676757">Múnich (Alemania)</timezone>
+    <timezone id="GMT+03:00" weatherID="2122296">Murmansk (Rusia)</timezone>
+    <timezone id="GMT+01:00" weatherID="862592">Oslo (Noruega)</timezone>
+    <timezone id="GMT+01:00" weatherID="615702">Paris (Francia)</timezone>
+    <timezone id="GMT+01:00" weatherID="796597">Praga (Rep. Checa)</timezone>
+    <timezone id="GMT+00:00" weatherID="980389">Reikiavik (Islandia)</timezone>
+    <timezone id="GMT+01:00" weatherID="721943">Roma (Italia)</timezone>
+    <timezone id="GMT+01:00" weatherID="733075">Róterdam (Holanda)</timezone>
+    <timezone id="GMT+03:00" weatherID="2123260">San Petersburgo (Rusia)</timezone>
+    <timezone id="GMT+02:00" weatherID="839722">Sofia (Bulgaria)</timezone>
+    <timezone id="GMT+01:00" weatherID="906057">Estocolmo (Suecia)</timezone>
+    <timezone id="GMT+01:00" weatherID="472135">Tirana (Albania)</timezone>
+    <timezone id="GMT+01:00" weatherID="23424986">Vaticano</timezone>
+    <timezone id="GMT+01:00" weatherID="725746">Venecia (Italia)</timezone>
+    <timezone id="GMT+01:00" weatherID="551801">Viena (Austria)</timezone>
+    <timezone id="GMT+01:00" weatherID="523920">Varsovia (Polonia)</timezone>
+    <timezone id="GMT+01:00" weatherID="784794">Zúrich (Suiza)</timezone>
+    <timezone id="GMT-09:00" weatherID="2354490">Anchorage (Estados Unidos)</timezone>
+    <timezone id="GMT-04:00" weatherID="379176">Asuncion (Paraguay)</timezone>
+    <timezone id="GMT-05:00" weatherID="2357024">Atlanta (Estados Unidos)</timezone>
+    <timezone id="GMT-05:00" weatherID="368148">Bogota (Colombia)</timezone>
+    <timezone id="GMT-05:00" weatherID="2367105">Boston (Estados Unidos)</timezone>
+    <timezone id="GMT-03:00" weatherID="455819">Brasilia (Brasil)</timezone>
+    <timezone id="GMT-03:00" weatherID="468739">Buenos Aires (Argentina)</timezone>
+    <timezone id="GMT-04:30" weatherID="395269">Caracas (Venezuela)</timezone>
+    <timezone id="GMT-05:00" weatherID="667931">Ciudad Colón (Costa Rica)</timezone>
+    <timezone id="GMT-05:00" weatherID="2345115">La Habana (Cuba)</timezone>
+    <timezone id="GMT-05:00" weatherID="109251">Kingston (Jamaica)</timezone>
+    <timezone id="GMT-04:00" weatherID="2344804">La Paz (Bolivia)</timezone>
+    <timezone id="GMT-05:00" weatherID="418440">Lima (Perú)</timezone>
+    <timezone id="GMT-08:00" weatherID="2442047">Los Angeles (Estados Unidos)</timezone>
+    <timezone id="GMT-06:00" weatherID="116545">Ciudad de México (México)</timezone>
+    <timezone id="GMT-05:00" weatherID="2450022">Miami (Estados Unidos)</timezone>
+    <timezone id="GMT-03:00" weatherID="468052">Montevideo (Uruguay)</timezone>
+    <timezone id="GMT-05:00" weatherID="2459115">New York (Estados Unidos)</timezone>
+    <timezone id="GMT-05:00" weatherID="159386">Panamá</timezone>
+    <timezone id="GMT-04:00" weatherID="380213">Puerto de España (Trinidad y Tobago)</timezone>
+    <timezone id="GMT-03:00" weatherID="455825">Rio de Janeiro (Brasil)</timezone>
+    <timezone id="GMT-08:00" weatherID="2487956">San Francisco (Estados Unidos)</timezone>
+    <timezone id="GMT-04:00" weatherID="349859">Santiago (Chile)</timezone>
+    <timezone id="GMT-05:00" weatherID="4118">Toronto (Canadá)</timezone>
+    <timezone id="GMT-08:00" weatherID="9807">Vancouver (Canadá)</timezone>
+    <timezone id="GMT-05:00" weatherID="2514815">Washington, D.C. (Estados Unidos)</timezone>
+    <timezone id="GMT+00:00" weatherID="20069967">Abidjan (Costa de Marfil)</timezone>
+    <timezone id="GMT+03:00" weatherID="1313090">Adís Ababa (Etiopía)</timezone>
+    <timezone id="GMT+01:00" weatherID="1253079">Argel (Argelia)</timezone>
+    <timezone id="GMT+02:00" weatherID="1117457">Bengasi (Libia)</timezone>
+    <timezone id="GMT+02:00" weatherID="1544986">Beira (Mozambique)</timezone>
+    <timezone id="GMT+01:00" weatherID="1279685">Brazzaville (Rep. del Congo)</timezone>
+    <timezone id="GMT+02:00" weatherID="1521894">El Cairo (Egipto)</timezone>
+    <timezone id="GMT+02:00" weatherID="1591691">Ciudad del Cabo (Sudáfrica)</timezone>
+    <timezone id="GMT+00:00" weatherID="2346988">Dakar (Senegal)</timezone>
+    <timezone id="GMT+00:00" weatherID="1532755">Casablanca (Marruecos)</timezone>
+    <timezone id="GMT+03:00" weatherID="1443415">Dar es-Salaam (Tanzania)</timezone>
+    <timezone id="GMT+03:00" weatherID="23424797">Yibuti</timezone>
+    <timezone id="GMT+01:00" weatherID="1478198">Duala (Camerún)</timezone>
+    <timezone id="GMT+03:00" weatherID="20070421">Kampala (Uganda)</timezone>
+    <timezone id="GMT+01:00" weatherID="1396803">Kano (Nigeria)</timezone>
+    <timezone id="GMT+03:00" weatherID="1433559">Jartum (Sudán)</timezone>
+    <timezone id="GMT+01:00" weatherID="1290062">Kinshasa (Rep. del Congo)</timezone>
+    <timezone id="GMT+01:00" weatherID="2346342">Lagos (Nigeria)</timezone>
+    <timezone id="GMT+01:00" weatherID="1261906">Luanda (Angola)</timezone>
+    <timezone id="GMT+02:00" weatherID="1569006">Lusaka (Zambia)</timezone>
+    <timezone id="GMT+02:00" weatherID="1550363">Maputo (Mozambique)</timezone>
+    <timezone id="GMT+00:00" weatherID="2453077">Monrovia (Liberia)</timezone>
+    <timezone id="GMT+03:00" weatherID="1528488">Nairobi (Kenia)</timezone>
+    <timezone id="GMT+01:00" weatherID="1277402">Yamena (Chad)</timezone>
+    <timezone id="GMT+01:00" weatherID="1505949">Niamey (Níger)</timezone>
+    <timezone id="GMT+01:00" weatherID="1282253">Pointe-Noire (Rep. del Congo)</timezone>
+    <timezone id="GMT+00:00" weatherID="1539359">Rabat (Marruecos)</timezone>
+    <timezone id="GMT+03:00" weatherID="1358594">Tananarive (Madagascar)</timezone>
+    <timezone id="GMT+02:00" weatherID="1353281">Tripoli (Libia)</timezone>
+    <timezone id="GMT+01:00" weatherID="23424967">Túnez</timezone>
+    <timezone id="GMT+12:00" weatherID="1064103">Suva (Fiyi)</timezone>
+    <timezone id="GMT+10:00" weatherID="1105779">Sídney (Australia)</timezone>
+    <timezone id="GMT+12:00" weatherID="2351310">Wellington (Chile)</timezone>
+    <timezone id="GMT+01:00" weatherID="9000001">Barcelona (España)</timezone>
+    <timezone id="GMT+01:00" weatherID="9000002">Frankfurt (Alemania)</timezone>
+    <timezone id="GMT+01:00" weatherID="9000003">Zagreb (Croacia)</timezone>
+    <timezone id="GMT+02:00" weatherID="9000004">Tallin (Estonia)</timezone>
+    <timezone id="GMT+02:00" weatherID="9000005">Minsk (Bielorrusia)</timezone>
+    <timezone id="GMT+02:00" weatherID="9000006">Johanesburgo (Sudáfrica)</timezone>
+    <timezone id="GMT+02:00" weatherID="9000008">Odesa (Ucrania)</timezone>
+    <timezone id="GMT+02:00" weatherID="9000009">Harare (Zimbabue)</timezone>
+    <timezone id="GMT+03:00" weatherID="9000010">Riyadh (Arabia Saudí)</timezone>
+    <timezone id="GMT+04:30" weatherID="9000013">Kabul (Afganistán)</timezone>
+    <timezone id="GMT+05:00" weatherID="9000014">Karachi (Pakistán)</timezone>
+    <timezone id="GMT+05:00" weatherID="9000015">Tashkent (Uzbekistán)</timezone>
+    <timezone id="GMT+05:00" weatherID="9000016">Lahore (Pakistán)</timezone>
+    <timezone id="GMT+05:30" weatherID="9000017">Bombay (India)</timezone>
+    <timezone id="GMT+05:30" weatherID="9000018">Calcuta (India)</timezone>
+    <timezone id="GMT+08:00" weatherID="9000022">Perth (Australia)</timezone>
+    <timezone id="GMT+09:30" weatherID="9000023">Darwin (Australia)</timezone>
+    <timezone id="GMT+10:00" weatherID="9000024">Vladivostok (Rusia)</timezone>
+    <timezone id="GMT+10:00" weatherID="9000025">Brisbane (Australia)</timezone>
+    <timezone id="GMT+10:00" weatherID="9000026">Melbourne (Australia)</timezone>
+    <timezone id="GMT+10:00" weatherID="9000027">Canberra (Australia) </timezone>
+    <timezone id="GMT+09:30" weatherID="9000028">Adelaida (Australia)</timezone>
+    <timezone id="GMT+12:00" weatherID="9000029">Kamchatka (Rusia)</timezone>
+    <timezone id="GMT+12:00" weatherID="9000030">Anádyr (Rusia)</timezone>
+    <timezone id="GMT+12:45" weatherID="9000031">Islas Chatham (Nueva Zelanda)</timezone>
+    <timezone id="GMT+14:00" weatherID="9000032">Kiritimati (República de Kiribati)</timezone>
+    <timezone id="GMT-10:00" weatherID="9001001">Honolulu (Estados Unidos)</timezone>
+    <timezone id="GMT-08:00" weatherID="9001003">Seattle (Estados Unidos)</timezone>
+    <timezone id="GMT-07:00" weatherID="9001004">Edmonton (Canadá)</timezone>
+    <timezone id="GMT-07:00" weatherID="9001006">Fénix (Estados Unidos)</timezone>
+    <timezone id="GMT-06:00" weatherID="9001007">Winnipeg</timezone>
+    <timezone id="GMT-06:00" weatherID="9001008">Houston (Estados Unidos)</timezone>
+    <timezone id="GMT-06:00" weatherID="9001009">Mineápolis (Estados Unidos)</timezone>
+    <timezone id="GMT-03:00" weatherID="9001010">Saint Paul (Minnesota)</timezone>
+    <timezone id="GMT-06:00" weatherID="9001011">Nueva Orleans (Estados Unidos)</timezone>
+    <timezone id="GMT-06:00" weatherID="9001012">Chicago (Estados Unidos)</timezone>
+    <timezone id="GMT-06:00" weatherID="9001013">Montgomery (Estados Unidos)</timezone>
+    <timezone id="GMT-06:00" weatherID="9001014">Guatemala</timezone>
+    <timezone id="GMT-03:00" weatherID="9001015">San Salvador (Rep. El Salvador)</timezone>
+    <timezone id="GMT-06:00" weatherID="9001016">Tegucigalpa (Honduras)</timezone>
+    <timezone id="GMT-06:00" weatherID="9001017">Managua (Nicaragua)</timezone>
+    <timezone id="GMT-05:00" weatherID="9001018">Indianapolis (Estados Unidos)</timezone>
+    <timezone id="GMT-05:00" weatherID="9001019">Detroit (Estados Unidos)</timezone>
+    <timezone id="GMT-05:00" weatherID="9001020">Filadelfia (Estados Unidos)</timezone>
+    <timezone id="GMT-05:00" weatherID="9001021">Ottawa (Canada)</timezone>
+    <timezone id="GMT-05:00" weatherID="9001022">Nassau (Bahamas)</timezone>
+    <timezone id="GMT-05:00" weatherID="9001023">Montreal (Canadá)</timezone>
+    <timezone id="GMT-04:00" weatherID="9001024">Santo Domingo (Rep. Dominicana)</timezone>
+    <timezone id="GMT-04:00" weatherID="9001025">San Juan (Puerto Rico)</timezone>
+    <timezone id="GMT-04:00" weatherID="9001026">Halifax (Canadá)</timezone>
+    <timezone id="GMT-04:00" weatherID="9001027">Saint John (Antigua y Barbuda)</timezone>
+    <timezone id="GMT-03:00" weatherID="9001028">Sao Paulo (Brasil)</timezone>
+    <timezone id="GMT-07:00" weatherID="9001030">Aklavik (Canadá)</timezone>
+</timezones>

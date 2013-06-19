@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">extender clave</string>
+	<string name="title_no_certs">certificados no encontrados</string>
+	<string name="title_select_cert">Selecciona certificado</string>
+	<string name="requesting_application">La aplicación %s ha solicitado un certificado. La selección de un certificado favorable a la solicitud dará la posibilidad de utilizar esta identidad con los servidores ahora y en el futuro.</string>
+	<string name="requesting_server">La aplicación ha identificado el servidor solicitante como %s, pero sólo se debe permitir el acceso de la aplicación a la certificación si confía en dicha aplicación.</string>
+	<string name="install_new_cert_message">Puede instalar certificados desde un archivo PKCS # 12 con un %1$s o un %2$s extensión localizada en el almacenamiento externo.</string>
+	<string name="install_new_cert_button_label">Instala</string>
+	<string name="allow_button">Permitir</string>
+	<string name="deny_button">Denegar</string>
+</resources>

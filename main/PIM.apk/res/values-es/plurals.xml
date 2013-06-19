@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>-->
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d contactos con números de teléfono</item>
+        <item quantity="one">1 contacto con número de teléfono</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d contactos</item>
+        <item quantity="one">1 contacto</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d encontrados</item>
+        <item quantity="one">1 encontrado</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d encontrados</item>
+        <item quantity="one">1 encontrado</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">fusionado desde %0$d fuentes</item>
+        <item quantity="one">sin fusionar</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d grupos</item>
+        <item quantity="one">1 grupo</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d personas desde %2$s</item>
+        <item quantity="one">%1$d persona desde %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d personas</item>
+        <item quantity="one">%1$d persona</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d Correos de vóz</item>
+        <item quantity="one">Correo de vóz</item>
+    </plurals>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">%d registros de llamadas</item>
+        <item quantity="one">1 registro de llamadas</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s conversaciones serán borradas</item>
+        <item quantity="one">Una conversación será borrada</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s segs</item>
+        <item quantity="one">%s seg</item>
+        <item quantity="few">%s segs</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s resultados para \"%2$s\"</item>
+        <item quantity="one">%1$s resultado para \"%2$s\"</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s personas</item>
+    </plurals>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">enviando %d informes leidos</item>
+        <item quantity="one">enviando %d informe leido</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d seleccionados</item>
+        <item quantity="one">%d seleccionado</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d seleccionados</item>
+        <item quantity="zero">%1$d seleccionados</item>
+        <item quantity="one">%1$d seleccionado</item>
+    </plurals>
+    <item type="plurals" name="BART_DUMMY_0011">false</item>
+    <item type="plurals" name="BART_DUMMY_0012">false</item>
+</resources>

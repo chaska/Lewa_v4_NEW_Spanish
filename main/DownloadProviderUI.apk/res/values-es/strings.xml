@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_label">Descargas</string>
+	<string name="download_title_sorted_by_date">Descargas (por fecha)</string>
+	<string name="download_title_sorted_by_size">Descargas (por tamaño)</string>
+	<string name="no_downloads">No hay descargas</string>
+	<string name="no_downloading">Sín descargas activas</string>
+	<string name="no_downloaded">No hay descargas</string>
+	<string name="missing_title">&lt;Desconocido></string>
+	<string name="button_sort_by_size">Ordenar por tamaño</string>
+	<string name="button_sort_by_date">Ordenar por fecha</string>
+	<string name="download_queued">En cola</string>
+	<string name="download_running">En curso</string>
+	<string name="download_success">Correcta</string>
+	<string name="download_error">Con error</string>
+	<string name="dialog_title_not_available">Error en la descarga</string>
+	<string name="dialog_failed_body">¿Quiere volver a intentar descargar el archivo más tarde o prefiere eliminarlo de la cola?</string>
+	<string name="dialog_title_queued_body">Archivo no disponible</string>
+	<string name="dialog_queued_body">Este archivo está en cola para descargarlo más tarde.</string>
+	<string name="dialog_file_missing_body">No se puede encontrar el archivo descargado.</string>
+	<string name="dialog_insufficient_space_on_external">No se puede completar la descarga porque no hay suficiente espacio de almacenamiento externo.</string>
+	<string name="dialog_insufficient_space_on_cache">No se puede completar la descarga porque no hay suficiente espacio de almacenamiento interno.</string>
+	<string name="dialog_cannot_resume">La descarga se ha interrumpido y no se puede reanudar.</string>
+	<string name="dialog_file_already_exists">No se puede realizar la descarga porque el archivo de destino ya existe.</string>
+	<string name="dialog_media_not_found">No se puede realizar la descarga porque el medio externo no está disponible.</string>
+	<string name="download_no_application_title">No se puede abrir el archivo.</string>
+	<string name="remove_download">Quitar</string>
+	<string name="delete_download">Eliminar</string>
+	<string name="keep_queued_download">Conservar</string>
+	<string name="cancel_running_download">Cancelar</string>
+	<string name="retry_download">Reintentar</string>
+	<string name="deselect_all">Desmarcar todo</string>
+	<string name="select_all">Seleccionar todo</string>
+	<string name="selected_count">Has seleccionado %1$d de %2$d.</string>
+	<string name="download_share_dialog">Compartir a través de</string>
+	<string name="download_error_insufficient_memory">Memoria insuficiente</string>
+	<string name="download_error_invalid_descriptor">Descriptor inválido</string>
+	<string name="download_error_invalid_ddversion">Versión DD inválida</string>
+	<string name="download_error_attribute_mismatch">Atributo inválido</string>
+	<string name="download_paused">Pausado</string>
+	<string name="authenticate_dialog_title">Por favor, introduzca usuario y contraseña</string>
+	<string name="username">Nombre</string>
+	<string name="password">Contraseña</string>
+	<string name="action">Identificarse</string>
+	<string name="cancel">Cancelar</string>
+	<string name="ok">OK</string>
+	<string name="confirm_oma_download_title">¿Confirmar descarga?</string>
+	<string name="oma_download_name">Nombre:</string>
+	<string name="oma_download_vendor">Fabricante:</string>
+	<string name="oma_download_type">Tipo:</string>
+	<string name="oma_download_size">Tamaño:</string>
+	<string name="oma_download_description">Descripción:</string>
+	<string name="oma_download_content_not_supported">Contenido no soportado. No se encuentra ninguna aplicación para abrir el fichero. ¿Desea continuar con la descarga?</string>
+	<string name="confirm_oma_download_next_url">Descarga completa. ¿Continuar a la siguiente URL?</string>
+	<string name="pause">Pausar</string>
+	<string name="resume">Continuar</string>
+	<string name="delete_failed_with_SDcard">Error borrando fichero. Tarjeta SD no disponible</string>
+	<string name="share_download">Compartir</string>
+	<string name="share_failed_with_download_error">Error en descarga de fichero, no se puede continuar compartiendo</string>
+	<string name="downloading_title">Descargando</string>
+	<string name="downloaded_title">Descargado</string>
+	<string name="menu_setting">Ajuste</string>
+	<string name="menu_pause_all">Pausar todos</string>
+	<string name="menu_resume_all">Reanudar todo</string>
+	<string name="menu_clear_all">Borrar todo</string>
+	<string name="message_open_app_fail">aplicación fallo</string>
+	<string name="network_choice">elección de la red</string>
+	<string name="only_wifi_title">sólo wifi</string>
+	<string name="only_wifi_summary">guardar los datos</string>
+	<string name="download_remind_title">sugerencias para redes 2G/3G</string>
+	<string name="close_mobile_dialog_title">Sugerencias</string>
+	<string name="close_mobile_dialog_content">Si cierra el consejo, no se mostrará el mensaje sobre que la descarga mediante la red móvil 2G/3G puede generar cargos adicionales.
+	
+¿Está seguro de que quiere anular el mensaje de aviso al realizar descargas mediante redes 2G/3G?</string>
+	<string name="close_mobile_dialog_positive">Aceptar</string>
+	<string name="close_mobile_dialog_negative">Cancelar</string>
+	<string name="download_dialog_title">Sugerencias de Descarga</string>
+	<string name="mobile_dialog_content_prefix">"¿Está seguro de descargar a través de la red móvil:
+"</string>
+	<string name="mobile_dialog_content_suffix">
+puede generar cargos adicionales</string>
+	<string name="mobile_dialog_positive">descargar</string>
+	<string name="mobile_dialog_negative">conectar wifi y descarga</string>
+	<string name="wifi_dialog_content">Ha seleccionado descargar solo mediante WI-FI, si desea iniciar la descarga deberá anular la descarga solo mediante WI-FI.
+
+¿Está seguro de anular la descarga solo mediante WI-FI e iniciar la descarga?</string>
+	<string name="wifi_dialog_positive">Aceptar</string>
+	<string name="wifi_dialog_negative">Cancelar</string>
+	<string name="delete_dialog_title">borrar</string>
+	<string name="delete_dialog_content">¿Está seguro que desea eliminar %1$d descargas?</string>
+	<string name="delete_dialog_content3">"¿Está seguro de cancelar y eliminar %1$d descargas?
+"</string>
+	<string name="delete_dialog_content2">eliminar el archivo en el disco</string>
+	<string name="delete_dialog_positive">Aceptar</string>
+	<string name="delete_dialog_negative">Cancelar</string>
+	<string name="status_pending">pendiente</string>
+	<string name="status_pause">pausa</string>
+	<string name="delete_all_dialog_title">borrar todos los historiales</string>
+	<string name="delete_all_dialog_content">¿Está seguro que desea borrar todos los historiales?</string>
+	<string name="delete_all_dialog_positive">Aceptar</string>
+	<string name="delete_all_dialog_negative">Cancelar</string>
+	<string name="net_work_disconnect">¡No se puede conectar a la red!</string>
+	<string name="today">Hoy</string>
+	<string name="yesterday">Ayer</string>
+	<string name="last_month">Mes pasado</string>
+	<string name="older">Más viejo</string>
+	<string name="status_pause_for_network">esperando la red</string>
+</resources>

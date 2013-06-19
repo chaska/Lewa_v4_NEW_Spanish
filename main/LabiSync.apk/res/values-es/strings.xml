@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Sincronizar Contactos</string>
+	<string name="sync_success">¡Sincronización Completa!</string>
+	<string name="sync_fail">¡Error en sincronización, por favor intente más tarde!</string>
+	<string name="sync_title">Sincronizar contactos</string>
+	<string name="syncing">Sincronizando, por favor espere...</string>
+	<string name="sync_format">Sincronizando %1$s contactos (total %2$s contactos)</string>
+	<string name="sync_warning_info">Sincroniza tus contactos. ¿Continuar?</string>
+	<string name="recovery_success">¡Recuperación completada!</string>
+	<string name="recovery_fail">¡Error en recuperación, por favor intentelo más tarde!</string>
+	<string name="recovering">Recuperando, por favor espere...</string>
+	<string name="recover_title">Recuperar contactos</string>
+	<string name="recover_format">Recuperando %1$s contactos (total %2$s contactos)</string>
+	<string name="recover_warning_info">Recuperar contactos, podría remover sus contactos actuales en el teléfono. ¿Desea Continuar?</string>
+	<string name="no_network">¡Red no disponible, por favor intente más tarde!</string>
+	<string name="no_contacts_oncloud">Sin contactos.</string>
+</resources>

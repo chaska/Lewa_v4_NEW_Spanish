@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="app_name">Limpiar</string>
+    <string name="hello_world">¡Hola Mundo!</string>
+    <string name="menu_settings">Ajustes</string>
+    <string name="title_activity_config">Configuración de la actividad</string>
+    <string name="result_format">Cerrada(s) %1$d app(s), Memoria Libre %2$s</string>
+    <string name="optimized">Optimizado</string>
+</resources>
