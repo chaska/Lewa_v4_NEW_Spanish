@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_name">Limpieza del Sistema</string>
-<string name="menu_settings">Ajustes</string>
-<string name="title_activity_main">ActividadPrincipal</string>
-<string name="calculate_sdcard">Calcular Sdcard</string>
-<string name="calculate_size">Calcular el tamaño de ...</string>
-<string name="clean_sdcard">limpiar sdcard</string>
-<string name="clean_sdcard_completed">Limpieza de sdcard completa</string>
-<string name="clean_log_file_name">Archivos de registro</string>
-<string name="clean_app_sdcard_cache_name">App sdcard cache</string>
-<string name="clean_sdcard_cache_name">Archivos de Cache</string>
-<string name="clean_sdcard_empty_file_name">Archivos vacíos</string>
-<string name="clean_sdcard_mtk_log_name">MTK registros</string>
-<string name="clean_sdcard_thum_file_name">Miniatura de archivo</string>
+	<string name="app_name">Limpieza del Sistema</string>
+	<string name="menu_settings">Ajustes</string>
+	<string name="title_activity_main">Actividad Principal</string>
+	<string name="calculate_sdcard">Calcular tamaño de tarjeta SD</string>
+	<string name="calculate_size">Calcular el tamaño de ...</string>
+	<string name="clean_sdcard">limpiar tarjeta SD</string>
+	<string name="clean_sdcard_completed">Limpieza de tarjeta SD completada</string>
+	<string name="clean_log_file_name">Archivos de registro</string>
+	<string name="clean_app_sdcard_cache_name">Caché de App en tarjeta SD</string>
+	<string name="clean_sdcard_cache_name">Archivos de Caché</string>
+	<string name="clean_sdcard_empty_file_name">Archivos vacíos</string>
+	<string name="clean_sdcard_mtk_log_name">Registros MTK </string>
+	<string name="clean_sdcard_thum_file_name">Miniatura de archivo</string>
 </resources>

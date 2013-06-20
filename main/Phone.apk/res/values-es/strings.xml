@@ -803,7 +803,7 @@ en condicional"</string>
 	<string name="alert_device_error">Error del dispositivo de audio</string>
 	<string name="btn_confirminfo_title">Confirmar información</string>
 	<string name="btn_Alertinfo_title">Información de avisos</string>
-	<string name="str_alertinfo_return">OK</string>
+	<string name="str_alertinfo_return">Aceptar</string>
 	<string name="str_confirminfo_save">Guardar</string>
 	<string name="str_confirminfo_return">Descartar</string>
 	<string name="ext_media_badremoval_notification_title">Tarjeta SD extraida</string>
@@ -969,7 +969,7 @@ en tarjeta SD"</string>
 	<string name="voice_call_settings">Configuración de llamadas de voz</string>
 	<string name="other_call_settings">Otros Ajustes</string>
 	<string name="simlock_name">Bloqueo SIM ME</string>
-	<string name="simlock_ok">OK</string>
+	<string name="simlock_ok">Aceptar</string>
 	<string name="simlock_dismiss">Descartar</string>
 	<string name="simlock_retriesleft">"Intentos: "</string>
 	<string name="pin_name">PIN</string>

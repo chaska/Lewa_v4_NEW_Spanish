@@ -39,6 +39,7 @@
 	<string name="remote_delete_data_hint_sub">Aviso: los datos del teléfono no se recuperan una vez que se han eliminado.</string>
 	<string name="remote_retrieve_password_title">Elige como recuperar la contraseña</string>
 	<string name="remote_retrieve_password_hint">Envíe esta órden al teléfono perdido, la contraseña será enviada a su teléfono.</string>
+	<string name="remote_retrieve_password_hint_sub" />
 	<string name="command_title">Puede enviar estas órdenes a su teléfono perdido a través de cualquier teléfono:</string>
 	<string name="command_lock_phone">Bloquear/Fotos</string>
 	<string name="command_lock_phone_hint">Bloquear el teléfono y tomar una foto por robo</string>
@@ -47,6 +48,7 @@
 	<string name="command_get_location_hint_sub">\#QQLocalización#Teléfono</string>
 	<string name="command_delete_data">Borrar datos</string>
 	<string name="command_delete_data_hint_sub">\#QQBorrar todo#Contraseña</string>
+	<string name="command_retrieve_password_short">Contraseña</string>
 	<string name="command_retrieve_password">Recuperar la contraseña</string>
 	<string name="command_retrieve_password_hint_sub">\#QQPIN#Número de seguridad del teléfono</string>
 	<string name="command_title_hint">Puede enviar estas órdenes para el control remoto de su teléfono perdido a través de cualquier teléfono</string>

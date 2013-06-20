@@ -146,5 +146,5 @@
     <string name="apprecommend__unlike_all">No hay más aplicaciones recomendadas</string>
     <string name="pull_to_refresh_pull_label">Deslice para actualizar</string>
     <string name="pull_to_refresh_release_label">Suelte para actualizar</string>
-    <string name="pull_to_refresh_refreshing_label">Cargando ..</string>
+    <string name="pull_to_refresh_refreshing_label">Cargando...</string>
 </resources>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>-->
-<resources>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">%d contactos con números de teléfono</item>
         <item quantity="one">1 contacto con número de teléfono</item>
@@ -70,6 +69,4 @@
         <item quantity="zero">%1$d seleccionados</item>
         <item quantity="one">%1$d seleccionado</item>
     </plurals>
-    <item type="plurals" name="BART_DUMMY_0011">false</item>
-    <item type="plurals" name="BART_DUMMY_0012">false</item>
 </resources>

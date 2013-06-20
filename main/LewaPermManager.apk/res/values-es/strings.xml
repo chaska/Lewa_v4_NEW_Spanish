@@ -28,7 +28,7 @@
 	<string name="category_high_level">Autorización de alto nivel</string>
 	<string name="category_low_level">Autorización de bajo nivel</string>
 	<string name="clear_logs">Limpiar registro</string>
-	<string name="permission_header">%1$d aplic. con permiso para,  •</string>
+	<string name="permission_header">%1$d aplic. con permiso para:  • </string>
 	<string name="permission_send_sms">Enviar mensajes</string>
 	<string name="permission_send_sms_sub"> enviar mensajes</string>
 	<string name="permission_call_phone">Llamadas</string>

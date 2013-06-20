@@ -1,128 +1,143 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="storage_internal">Tarjeta sd</string>
-<string name="storage_external">Tarjeta sd 2</string>
-<string name="app_name">Actualizador</string>
-<string name="discover_new_version">Buscar nueva versión:</string>
-<string name="new_version">Nueva versión:</string>
-<string name="cur_version">Versión actual:</string>
-<string name="check_update">Buscar actualizaciones</string>
-<string name="install_from_sd">Instalar desde la tarjeta sd</string>
-<string name="error_empty">El paquete no esta es esta carpeta</string>
-<string name="select_file">Por favor, seleccione el archivo</string>
-<string name="download_failure">Fallo al descagar</string>
-<string name="file_list_title">Instalar desde la tarjeta sd</string>
-<string name="conn_error">Error al conectar al servidor LEWA, por favor conectarse más tarde</string>
-<string name="net_error">Error de red, abra la red</string>
-<string name="error_no_msg">No hay ningún mensaje(T_T)</string>
-<string name="new_version_error">Usted tiene la última versión y no se encuentra nueva versión</string>
-<string name="new_version_error_twice">Usted tiene la última versión y no se encuentra nueva versión</string>
-<string name="new_version_error_third">Usted tiene la última versión y no se encuentra nueva versión</string>
-<string name="new_version_error_fourth">error no definido</string>
-<string name="new_version_error_fifth">error no definido</string>
-<string name="curr_version_error">Su versión actual es demasiado vieja, por favor, actualice desde la tarjeta sd</string>
-<string name="download_file_exist">Existe zip de actualización</string>
-<string name="net_data_error">Error de datos del server</string>
-<string name="currversion_old_error">Su versión actual es demasiado antigua</string>
-<string name="upgrade_now">Actualizar ahora</string>
-<string name="upgrade_later">Actualizar después</string>
-<string name="download_now">Descargar ahora</string>
-<string name="downloading">Descargardo paquete</string>
-<string name="sdcard_not_exists">No existe tarjeta sd, por favor monte la tarjeta sd y luego descarge</string>
-<string name="dlg_update_package_md5_error_title">Error al verificar paquete de actualización</string>
-<string name="dlg_update_package_md5_error_msg">El paquete de actualización es diferente del paquete del servidor</string>
-<string name="btn_retry_download">Reintentar descarga</string>
-<string name="btn_cancel_download">No descargar ahora</string>
-<string name="lewa_rom_title">LewaRom</string>
-<string name="wifi_not_active">Wifi no está activo, por favor descargé las actualizaciones zip usando wifi</string>
-<string name="notification_update_succ_title">Felicidades, actualizado con éxito</string>
-<string name="notification_update_succ_content">Actualizado con éxito, la versión actual es la siguiente:</string>
-<string name="notification_update_error_title">Lo sentimos, falló al actualizar versión</string>
-<string name="notification_update_error_content">Fallo al actualizar, la versión actual es la siguiente:</string>
-<string name="dlg_update_ota_wifi_off_title">Descargar utilizando la red de datos</string>
-<string name="dlg_update_ota_wifi_off_msg">¿Estás seguro de no usar wifi para descargar?</string>
-<string name="dlg_update_package_wifi_off_title">Descargar utilizando la red de datos</string>
-<string name="dlg_update_package_wifi_off_msg">Estás seguro de no usar wifi para descargar</string>
-<string name="dlg_reboot_update_complete_title">Actualizar al reiniciar</string>
-<string name="dlg_reboot_update_complete_msg">Actualizar al reiniciar después de confirmar</string>
-<string name="dlg_sdcard_not_remount_title">Sin acceso a la tarjeta SD</string>
-<string name="dlg_sdcard_not_remount_msg">Asegúrese de que tiene la tarjeta, y el teléfono no está en modo de transferencia de datos.</string>
-<string name="dlg_sdcard_not_memory_title">Recordar almacenamiento</string>
-<string name="dlg_sdcard_not_memory_msg">¡La tarjeta SD no tiene suficiente espacio de almacenamiento!</string>
-<string name="dlg_delete_all_file_title">Eliminar paquete ROM</string>
-<string name="dlg_delete_all_file_msg">¿Estás seguro de eliminar este paquete ROM?</string>
-<string name="btn_confirm">OK</string>
-<string name="btn_cancel">Cancelar</string>
-<string name="btn_pause">Pausar</string>
-<string name="btn_continue">Continuar</string>
-<string name="notification_new_version">Usted tiene una nueva versión, por favor haga clic para actualizar</string>
-<string name="model_not_match">El paquete seleccionado no se corresponden con el modelo, por favor seleccione el otro paquete</string>
-<string name="version_not_match">La versión del paquete que elija, es más antiguo, por favor seleccione el otro paquete</string>
-<string name="download_all_new_version">Descargar paquete de la nueva versión:</string>
-<string name="msg_cannot_ota_update">"La versión actual es demasiado antigua, no se puede actualizar a través de OTA, por favor descarga la nueva versión del paquete de actualización, el paquete de la versión nueva es demasiado grande, sugiero descargar utilizando wifi"</string>
-<string name="net_data_error_pause_download">Net ERROR, descarga pausada</string>
-<string name="notification_net_data_error_pause_download">Net ERROR, descarga pausada</string>
-<string name="notification_user_click_pause_download">Pausar la descarga del paquete de actualización</string>
-<string name="notification_net_data_complete_download">Completada la descarga del paquete de actualización</string>
-<string name="notification_net_data_complete_download_content">Por favor haga clic para reiniciar el sistema</string>
-<string name="dlg_cancel_download_title">Cancelar descarga</string>
-<string name="dlg_cancel_download_msg">¿Estás seguro de cancelar la descarga? Si cancela la descarga no se podrá reanudar la descarga</string>
-<string name="dlg_cotinue_download_title">Descargar el paquete de actualización</string>
-<string name="dlg_cotinue_download_msg">Estás seguro de no usar wifi para descargar</string>
-<string name="push_msg_notification_title">Usted tiene nueva actualización del sistema</string>
-<string name="push_msg_notification_msg">La versión de actualización del sistema es:</string>
-<string name="pregress_get_new_version_msg">Obteniendo información de la nueva versión, por favor espere un momento ...</string>
-<string name="pregress_reboot_phone_title">Reiniciar para actualizar</string>
-<string name="pregress_reboot_phone_msg">Se está preparando para reiniciar, por favor espere un momento ...</string>
-<string name="stable_version">(Versión estable)</string>
-<string name="dev_version">(Versión desarrollador)</string>
-<string name="menu_download_newest_full">Descarga la última ROM completa</string>
-<string name="default_version_summary">Bienvenido a LeWa OS</string>
-<string name="download_progress">0%</string>
-<string name="tag_v">v</string>
-<string name="error_can_not_get_update_version">No se puede obtener actualización</string>
-<string name="error_cannot_download_full_package">No se puede descargar el paquete completo</string>
-<string name="error_webview_no_msg">Ningún mensaje(T_T)</string>
-<string name="error_http_timeout">No se puede conectar con el servidor, por favor, inténtelo de nuevo.</string>
-<string name="tag_new_version">【Nueva】</string>
-<string name="realize_more">Realizar más</string>
-<string name="progress_check_update_msg">Comprobando actualizaciones, por favor espere ...</string>
-<string name="progress_check_update_title">Buscando actualizaciones</string>
-<string name="refresh">Refrescar</string>
-<string name="download_ota">Descargar</string>
-<string name="download_full_package">Descargar paquete completo</string>
-<string name="share">Compartir</string>
-<string name="reboot_update">Reiniciar para actualizar</string>
-<string name="find_new_version">Nueva versión</string>
-<string name="current_version">Versión actual</string>
-<string name="download_full_package_error">¡Su versión es la última! ¡No hay necesidad de descargar la versión completa!</string>
-<string name="buffering">Buffering</string>
-<string name="dlg_cancel_update_title">Cancelar actualización</string>
-<string name="dlg_cancel_update_msg">¿Cancelar actualización de la versión anterior? Fácil, el archivo se ha almacenado en la tarjeta SD.</string>
-<string name="dlg_cancel_update_msg_not_finish">La versión anterior no se descargó completa, ¿cancelar la descarga de la nueva versión?</string>
-<string name="reboot_to_recovery">Reinicie en modo recuperación</string>
-<string name="reboot_to_recovery_msg">El teléfono necesita reiniciar en modo de recuperación, ¿seguir?</string>
-<string name="share_version_info">Compartir información nueva versión</string>
-<string name="share_to_sina_weibo">Compartir en Sina Weibo</string>
-<string name="download_sina_weibo">Sina Weibo (descargar)</string>
-<string name="share_to_tencent_weibo">Comparte Tencent Weibo</string>
-<string name="download_tencent_weibo">Tencent Weibo (descargar)</string>
-<string name="share_to_renren">Compartir en Renren</string>
-<string name="download_renren">Renren (descargar)</string>
-<string name="share_to_qzone">Compartir en Qzone</string>
-<string name="download_qzone">QZone (descargar)</string>
-<string name="no_share_app_find">Lo sentimos, no se van a instalar las aplicaciones, puedes compartir después de la descarga</string>
-<string name="share_with_friends">.Comparta con sus amigos ahora! ^ _ ^</string>
-<string name="share_to_weibo_content_start">\#Lewa Updater#  actualizado con éxito</string>
-<string name="share_to_weibo_content_end">Para mas detalles sobre Lewa ROM visita http://www.lewatek.com</string>
-<string name="share_to_weibo_content0" formatted="false">Contenido0 a compartir con Weibo</string>
-<string name="share_to_weibo_content1" formatted="false">Contenido1 a compartir con Weibo</string>
-<string name="share_to_weibo_content2" formatted="false">Contenido2 a compartir con Weibo</string>
-<string name="share_to_weibo_content3" formatted="false">Contenido3 a compartir con Weibo</string>
-<string name="share_to_weibo_content4" formatted="false">Contenido4 a compartir con Weibo</string>
-<string name="share_to_weibo_content5" formatted="false">Contenido5 a compartir con Weibo</string>
-<string name="share_to_weibo_content6" formatted="false">Contenido6 a compartir con Weibo</string>
-<string name="share_to_weibo_content7" formatted="false">Contenido7 a compartir con Weibo</string>
-<string name="share_to_weibo_content8" formatted="false">Contenido8 a compartir con Weibo</string>
-<string name="share_to_weibo_content9" formatted="false">Contenido9 a compartir con Weibo</string>
+	<string name="storage_override" />
+    <string name="storage_recovery_override" />
+	<string name="storage_internal">Tarjeta sd</string>
+	<string name="storage_external">Tarjeta sd 2</string>
+	<string name="app_name">Actualizador</string>
+	<string name="discover_new_version">Buscar nueva versión:</string>
+	<string name="new_version">Nueva versión:</string>
+	<string name="cur_version">Versión actual:</string>
+	<string name="check_update">Buscar actualizaciones</string>
+	<string name="install_from_sd">Instalar desde la tarjeta sd</string>
+	<string name="error_empty">El paquete no esta es esta carpeta</string>
+	<string name="select_file">Por favor, seleccione el archivo</string>
+	<string name="download_failure">Fallo al descagar</string>
+	<string name="file_list_title">Instalar desde la tarjeta sd</string>
+	<string name="conn_error">Error al conectar al servidor LEWA, por favor conectarse más tarde</string>
+	<string name="net_error">Error de red, abra la red</string>
+	<string name="error_no_msg">No hay ningún mensaje(T_T)</string>
+	<string name="new_version_error">Usted tiene la última versión y no se encuentra nueva versión</string>
+	<string name="new_version_error_twice">Usted tiene la última versión y no se encuentra nueva versión</string>
+	<string name="new_version_error_third">Usted tiene la última versión y no se encuentra nueva versión</string>
+	<string name="new_version_error_fourth">error no definido</string>
+	<string name="new_version_error_fifth">error no definido</string>
+	<string name="curr_version_error">Su versión actual es demasiado vieja, por favor, actualice desde la tarjeta sd</string>
+	<string name="download_file_exist">Existe zip de actualización</string>
+	<string name="net_data_error">Error de datos del server</string>
+	<string name="currversion_old_error">Su versión actual es demasiado antigua</string>
+	<string name="upgrade_now">Actualizar ahora</string>
+	<string name="upgrade_later">Actualizar después</string>
+	<string name="download_now">Descargar ahora</string>
+	<string name="downloading">Descargardo paquete</string>
+	<string name="sdcard_not_exists">No existe tarjeta sd, por favor monte la tarjeta sd y luego descarge</string>
+	<string name="dlg_update_package_md5_error_title">Error al verificar paquete de actualización</string>
+	<string name="dlg_update_package_md5_error_msg">El paquete de actualización es diferente del paquete del servidor</string>
+	<string name="btn_retry_download">Reintentar descarga</string>
+	<string name="btn_cancel_download">No descargar ahora</string>
+	<string name="lewa_rom_title">LewaRom</string>
+	<string name="wifi_not_active">Wifi no está activo, por favor descargé las actualizaciones zip usando wifi</string>
+	<string name="notification_update_succ_title">Felicidades, actualizado con éxito</string>
+	<string name="notification_update_succ_content">Actualizado con éxito, la versión actual es la siguiente:</string>
+	<string name="notification_update_error_title">Lo sentimos, falló al actualizar versión</string>
+	<string name="notification_update_error_content">Fallo al actualizar, la versión actual es la siguiente:</string>
+	<string name="dlg_update_ota_wifi_off_title">Descargar utilizando la red de datos</string>
+	<string name="dlg_update_ota_wifi_off_msg">¿Estás seguro de no usar wifi para descargar?</string>
+	<string name="dlg_update_package_wifi_off_title">Descargar utilizando la red de datos</string>
+	<string name="dlg_update_package_wifi_off_msg">Estás seguro de no usar wifi para descargar</string>
+	<string name="dlg_reboot_update_complete_title">Actualizar al reiniciar</string>
+	<string name="dlg_reboot_update_complete_msg">Actualizar al reiniciar después de confirmar</string>
+	<string name="dlg_sdcard_not_remount_title">Sin acceso a la tarjeta SD</string>
+	<string name="dlg_sdcard_not_remount_msg">Asegúrese de que tiene la tarjeta, y el teléfono no está en modo de transferencia de datos.</string>
+	<string name="dlg_sdcard_not_memory_title">Recordar almacenamiento</string>
+	<string name="dlg_sdcard_not_memory_msg">¡La tarjeta SD no tiene suficiente espacio de almacenamiento!</string>
+	<string name="dlg_delete_all_file_title">Eliminar paquete ROM</string>
+	<string name="dlg_delete_all_file_msg">¿Estás seguro de eliminar este paquete ROM?</string>
+	<string name="btn_confirm">Aceptar</string>
+	<string name="btn_cancel">Cancelar</string>
+	<string name="btn_pause">Pausar</string>
+	<string name="btn_continue">Continuar</string>
+	<string name="notification_new_version">Usted tiene una nueva versión, por favor haga clic para actualizar</string>
+	<string name="model_not_match">El paquete seleccionado no se corresponden con el modelo, por favor seleccione el otro paquete</string>
+	<string name="version_not_match">La versión del paquete que elija, es más antiguo, por favor seleccione el otro paquete</string>
+	<string name="download_all_new_version">Descargar paquete de la nueva versión:</string>
+	<string name="msg_cannot_ota_update">"La versión actual es demasiado antigua, no se puede actualizar a través de OTA,
+por favor descargue la nueva versión del paquete de actualización, el paquete de la versión nueva es demasiado grande,
+le sugerimos descargar utilizando wifi"</string>
+	<string name="net_data_error_pause_download">Net ERROR, descarga pausada</string>
+	<string name="notification_net_data_error_pause_download">Net ERROR, descarga pausada</string>
+	<string name="notification_user_click_pause_download">Pausar la descarga del paquete de actualización</string>
+	<string name="notification_net_data_complete_download">Completada la descarga del paquete de actualización</string>
+	<string name="notification_net_data_complete_download_content">Por favor haga clic para reiniciar el sistema</string>
+	<string name="dlg_cancel_download_title">Cancelar descarga</string>
+	<string name="dlg_cancel_download_msg">¿Estás seguro de cancelar la descarga? Si cancela la descarga no se podrá reanudar la descarga</string>
+	<string name="dlg_cotinue_download_title">Descargar el paquete de actualización</string>
+	<string name="dlg_cotinue_download_msg">Estás seguro de no usar wifi para descargar</string>
+	<string name="push_msg_notification_title">Usted tiene nueva actualización del sistema</string>
+	<string name="push_msg_notification_msg">La versión de actualización del sistema es:</string>
+	<string name="pregress_get_new_version_msg">Obteniendo información de la nueva versión, por favor espere un momento ...</string>
+	<string name="pregress_reboot_phone_title">Reiniciar para actualizar</string>
+	<string name="pregress_reboot_phone_msg">Se está preparando para reiniciar, por favor espere un momento ...</string>
+	<string name="stable_version">(Versión estable)</string>
+	<string name="dev_version">(Versión desarrollador)</string>
+	<string name="menu_download_newest_full">Descarga la última ROM completa</string>
+	<string name="default_version_summary">Bienvenido a LeWa OS</string>
+	<string name="download_progress">0%</string>
+	<string name="tag_v">v</string>
+	<string name="error_can_not_get_update_version">No se puede obtener actualización</string>
+	<string name="error_cannot_download_full_package">No se puede descargar el paquete completo</string>
+	<string name="error_webview_no_msg">Ningún mensaje(T_T)</string>
+	<string name="error_http_timeout">No se puede conectar con el servidor, por favor, inténtelo de nuevo.</string>
+	<string name="tag_new_version">【Nueva】</string>
+	<string name="realize_more">Realizar más</string>
+	<string name="progress_check_update_msg">Comprobando actualizaciones, por favor espere ...</string>
+	<string name="progress_check_update_title">Buscando actualizaciones</string>
+	<string name="refresh">Refrescar</string>
+	<string name="download_ota">Descargar</string>
+	<string name="download_full_package">Descargar paquete completo</string>
+	<string name="share">Compartir</string>
+	<string name="reboot_update">Reiniciar para actualizar</string>
+	<string name="find_new_version">Nueva versión</string>
+	<string name="current_version">Versión actual</string>
+	<string name="download_full_package_error">¡Su versión es la última! ¡No hay necesidad de descargar la versión completa!</string>
+	<string name="buffering">Buffering</string>
+	<string name="dlg_cancel_update_title">Cancelar actualización</string>
+	<string name="dlg_cancel_update_msg">¿Cancelar actualización de la versión anterior? Fácil, el archivo se ha almacenado en la tarjeta SD.</string>
+	<string name="dlg_cancel_update_msg_not_finish">La versión anterior no se descargó completa, ¿cancelar la descarga de la nueva versión?</string>
+	<string name="reboot_to_recovery">Reinicie en modo recuperación</string>
+	<string name="reboot_to_recovery_msg">El teléfono necesita reiniciar en modo de recuperación, ¿seguir?</string>
+	<string name="share_version_info">Compartir información nueva versión</string>
+	<string name="share_to_sina_weibo">Compartir en Sina Weibo</string>
+	<string name="download_sina_weibo">Sina Weibo (descargar)</string>
+	<string name="share_to_tencent_weibo">Comparte Tencent Weibo</string>
+	<string name="download_tencent_weibo">Tencent Weibo (descargar)</string>
+	<string name="share_to_renren">Compartir en Renren</string>
+	<string name="download_renren">Renren (descargar)</string>
+	<string name="share_to_qzone">Compartir en Qzone</string>
+	<string name="download_qzone">QZone (descargar)</string>
+	<string name="no_share_app_find">Lo sentimos, no se van a instalar las aplicaciones, puede compartir después de la descarga</string>
+	<string name="share_with_friends">¡Comparta ahora con sus amigos!</string>
+	<string name="share_to_weibo_content_start">\#Lewa Updater#  actualizado con éxito</string>
+	<string name="share_to_weibo_content_end">Para mas detalles sobre Lewa ROM visite http://www.lewatek.com</string>
+	<string name="share_to_weibo_content0" formatted="false">Contenido 0 a compartir con Weibo</string>
+	<string name="share_to_weibo_content1" formatted="false">Contenido 1 a compartir con Weibo</string>
+	<string name="share_to_weibo_content2" formatted="false">Contenido 2 a compartir con Weibo</string>
+	<string name="share_to_weibo_content3" formatted="false">Contenido 3 a compartir con Weibo</string>
+	<string name="share_to_weibo_content4" formatted="false">Contenido 4 a compartir con Weibo</string>
+	<string name="share_to_weibo_content5" formatted="false">Contenido 5 a compartir con Weibo</string>
+	<string name="share_to_weibo_content6" formatted="false">Contenido 6 a compartir con Weibo</string>
+	<string name="share_to_weibo_content7" formatted="false">Contenido 7 a compartir con Weibo</string>
+	<string name="share_to_weibo_content8" formatted="false">Contenido 8 a compartir con Weibo</string>
+	<string name="share_to_weibo_content9" formatted="false">Contenido 9 a compartir con Weibo</string>
+	<string name="share_to_weibo_content10" formatted="false">Contenido 10 a compartir con Weibo</string>
+	<string name="share_to_weibo_content11" formatted="false">Contenido 11 a compartir con Weibo</string>
+	<string name="share_to_weibo_content12" formatted="false">Contenido 12 a compartir con Weibo</string>
+	<string name="share_to_weibo_content13" formatted="false">Contenido 13 a compartir con Weibo</string>
+	<string name="share_to_weibo_content14" formatted="false">Contenido 14 a compartir con Weibo</string>
+	<string name="share_to_weibo_content15" formatted="false">Contenido 15 a compartir con Weibo</string>
+	<string name="share_to_weibo_content16" formatted="false">Contenido 16 a compartir con Weibo</string>
+	<string name="share_to_weibo_content17" formatted="false">Contenido 17 a compartir con Weibo</string>
+	<string name="share_to_weibo_content18" formatted="false">Contenido 18 a compartir con Weibo</string>
+	<string name="share_to_weibo_content19" formatted="false">Contenido 19 a compartir con Weibo</string>
+	<string name="share_to_weibo_content21" formatted="false">Contenido 21 a compartir con Weibo</string>	
 </resources>

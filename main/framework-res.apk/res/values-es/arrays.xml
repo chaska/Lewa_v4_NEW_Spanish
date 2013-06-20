@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <string-array name="emailAddressTypes">
-        <item>Home</item>
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Casa</item>
+        <item>Trabajo</item>
+        <item>Otro</item>
+        <item>Personalizar</item>
     </string-array>
     <string-array name="imProtocols">
         <item>AIM</item>
@@ -17,25 +17,25 @@
         <item>Jabber</item>
     </string-array>
     <string-array name="organizationTypes">
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Trabajo</item>
+        <item>Otro</item>
+        <item>Personalizar</item>
     </string-array>
     <string-array name="phoneTypes">
-        <item>Home</item>
-        <item>Mobile</item>
-        <item>Work</item>
-        <item>Work Fax</item>
-        <item>Home Fax</item>
-        <item>Pager</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Casa</item>
+        <item>Móvil</item>
+        <item>Trabajo</item>
+        <item>Fax del trabajo</item>
+        <item>Fax de casa</item>
+        <item>Buscapersonas</item>
+        <item>Otro</item>
+        <item>Personalizado</item>
     </string-array>
     <string-array name="postalAddressTypes">
-        <item>Home</item>
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Casa</item>
+        <item>Trabajo</item>
+        <item>Otro</item>
+        <item>Personalizar</item>
     </string-array>
     <array name="preloaded_drawables">
         <item>@drawable/spinner_black_16</item>

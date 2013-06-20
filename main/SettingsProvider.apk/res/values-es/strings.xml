@@ -2,7 +2,7 @@
 <resources>
     <string name="def_airplane_mode_radios">cell,bluetooth,wifi,nfc</string>
     <string name="airplane_mode_toggleable_radios">bluetooth,wifi,nfc</string>
-    <string name="def_landscape_launcher">nINGUNO</string>
+    <string name="def_landscape_launcher">ninguno</string>
     <string name="def_location_providers_allowed" />
     <string name="def_location_providers_allowed_op03" />
     <string name="def_backup_transport">android/com.android.internal.backup.LocalTransport</string>

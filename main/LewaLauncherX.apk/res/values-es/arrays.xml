@@ -2,7 +2,7 @@
 <!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <string-array name="desktop_transition_effect_entries">
         <item>Estandard</item>
-        <item>Estandard(No OverShoot)</item>
+        <item>Estandard(No sobreexpuesto)</item>
         <item>Tablet</item>
         <item>Acercar</item>
         <item>Alejar</item>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_name">MTK suite de android Daemon</string>
-<string name="noti_main_service_started">MTK suite de android Daemon comenzada.</string>
-<string name="noti_main_service_running">MTK suite de android Daemon está funcionando.</string>
-<string name="noti_main_service_stopped">MTK suite de android Daemon está parada.</string>
+	<string name="app_name">MTK suite de android Daemon</string>
+	<string name="noti_main_service_started">MTK suite de android Daemon comenzada.</string>
+	<string name="noti_main_service_running">MTK suite de android Daemon está funcionando.</string>
+	<string name="noti_main_service_stopped">MTK suite de android Daemon está parada.</string>
 </resources>
