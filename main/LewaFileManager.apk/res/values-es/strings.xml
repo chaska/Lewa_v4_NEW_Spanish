@@ -280,7 +280,7 @@
 	<string name="info_setting_file">Local</string>
 	<string name="info_setting_file_str">Otros archivos locales</string>
 	<string name="no_default_browser">No hay ningún navegador predeterminado</string>
-	<string name="rom_size">Almacenamiento interno: %1$s</string>
+	<string name="rom_size">Almac. interno: %1$s</string>
 	<string name="rom_available">Disponible: %1$s</string>
 	<string name="sd_card_size">Tarjeta SD: %1$s</string>
 	<string name="sd_card_available">Disponible: %1$s</string>

@@ -1384,8 +1384,8 @@ Volviendo a intentar enviarlo…"</string>
     <string name="sms_recommend_copy_text_ready">texto copiado</string>
     <string name="mms_menu_select_title">seleccionar</string>
     <string name="favorite_sms">mensaje favorito</string>
-    <string name="quick_text">tecto rápido</string>
-    <string name="message_favorite">message favorite</string>
+    <string name="quick_text">texto rápido</string>
+    <string name="message_favorite">mensaje favorito</string>
     <string name="favorite_from">de favorito:</string>
     <string name="view_original_message">ver mensaje original</string>
     <string name="add_quick_text">añadir texto rápido</string>
